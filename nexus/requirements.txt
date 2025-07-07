@@ -1,0 +1,32 @@
+# Core Libraries
+numpy
+scipy
+pandas
+polars
+matplotlib
+plotly
+bokeh
+
+# Machine Learning
+scikit-learn
+tensorflow
+torch
+xgboost
+
+# Optimization
+cvxpy
+pyomo
+pulp
+
+# Process Simulation & Chemical Engineering
+coolprop
+thermo
+chemicals
+cantera
+control
+
+# Database & Data Management
+influxdb-client
+psycopg2-binary
+pymongo
+apache-airflow
